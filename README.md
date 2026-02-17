@@ -53,9 +53,11 @@ Pune, India
 
 GitHub → 
 
-Platform → 
+https://github.com/vaishnavkanade/PRODIGY_WD_04
 
 Live demo = 
+
+https://vaishnavkanade.github.io/PRODIGY_WD_04/
 
 🎯 Purpose
 
